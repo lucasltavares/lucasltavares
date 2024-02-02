@@ -16,7 +16,7 @@
 <div>
  <p>
 
-I am 27 years old and graduated in Information Technology. I am fascinated by web development. I aspire to become a great software engineer. I am deeply interested in software development and API Engineering to make powerful softwares. I am also interested in cloud, inovation, music, social work and philosophy . I wish that my work has a positive impact on society.
+I'm a 27 years old software developer, graduated in Information Technology. I am fascinated by web development, I aspire to become a great software engineer. I am deeply interested in software development and API Engineering to make powerful softwares. I am also interested in cloud, inovation, music, social work and philosophy . I wish that my work has a positive impact on society.
 
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/lucasltavares) page.
 
