@@ -29,6 +29,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 <br />
 <br />
 <br />
+<a href="https://app.daily.dev/lucaslima93"><img src="https://api.daily.dev/devcards/bd0da03096044c44964db7e799174c9d.png?r=t9y" width="400" alt="Lucas lima's Dev Card"/></a>
 <details>
 <summary>
   Projects I am currently working on
