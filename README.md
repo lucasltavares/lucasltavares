@@ -7,8 +7,8 @@
 <a href="https://leetcode.com/user9112JB/">
   <img align="left" alt="Lucas's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://medium.com/">
-  <img align="left" alt="Lucas's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+<a href="https://dev.to/lucasltavares">
+  <img align="left" alt="Lucas's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/>
 </a>
 <br />
 <br />
