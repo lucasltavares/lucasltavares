@@ -25,7 +25,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 <div><p>My profile overview: </p></div>
 
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasltavares&show_icons=true)
+![Lucas's github stats](https://github-readme-stats-fast.vercel.app/api?username=lucasltavares&show_icons=true)
 <br />
 <br />
 <br />
@@ -36,10 +36,10 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasltavares&repo=laravel-jwt-auth)](https://github.com/lucasltavares/blog-api-laravel)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasltavares&repo=lumen-todos-api)](https://github.com/lucasltavares/lumen-todos-api)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasltavares&repo=vuejs-task-tracker)](https://github.com/lucasltavares/vuejs-task-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasltavares&repo=vcf-to-json)](https://github.com/lucasltavares/vcf-to-json)
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=lucasltavares&repo=laravel-jwt-auth)](https://github.com/lucasltavares/blog-api-laravel)
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=lucasltavares&repo=lumen-todos-api)](https://github.com/lucasltavares/lumen-todos-api)
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=lucasltavares&repo=vuejs-task-tracker)](https://github.com/lucasltavares/vuejs-task-tracker)
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=lucasltavares&repo=vcf-to-json)](https://github.com/lucasltavares/vcf-to-json)
 
 <br />
 
